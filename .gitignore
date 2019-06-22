@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# class ignore!! so we don't accidentally add api key to github
+config.py
