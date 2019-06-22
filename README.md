@@ -3,4 +3,6 @@ Open Source Data Science Project
 
 Contributors: Tamara, Saj, Kathleen
 
+## Project Proposal
 
+Business/Customer-focused
