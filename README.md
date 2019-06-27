@@ -1,8 +1,14 @@
-# Open Source Project 1
-Open Source Data Science Project
+# Women in the Workforce
 
-Contributors: Tamara, Saj, Kathleen
+Contributors: Tamara Najjar, Sajid Khan, Kathleen Graham
+
 
 ## Project Proposal
 
-Business/Customer-focused
+Overview: Since the 1960s, there has bene a noticeable influx of women in the workforce.
+
+What impact has third has on the economy?
+* one
+* two
+* three
+* four
