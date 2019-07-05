@@ -98,62 +98,62 @@ We researched some examples of secondary y axis plots on Stack Overflow and deci
 
 #### Participation of Women in the Workforce Has Increased
 
-![women-in-workforce-lineplot](../analysis/images/percentage-women-workforce-lineplot.png)
+![women-in-workforce-lineplot](analysis/images/percentage-women-workforce-lineplot.png)
 
 
 #### Birth Rates Have Declined
 
-![birth-rate-decline](../analysis/images/crude-US-birth-rates.png)
+![birth-rate-decline](analysis/images/crude-US-birth-rates.png)
 
 
 #### GDP Has Grown
 
-![birth-rate-decline](../analysis/images/crude-US-birth-rates.png)
+![birth-rate-decline](analysis/images/crude-US-birth-rates.png)
 
 
 #### GDP Has Grown in Different States
 
-![birth-rate-decline-lineplot](../analysis/images/crude-US-birth-rates.png)
+![birth-rate-decline-lineplot](analysis/images/crude-US-birth-rates.png)
 
 
 #### Women in the Workforce vs. GDP Growth
 
-![women-in-workforce-vs-gdp-growth-lineplot](../analysis/images/percent-women-workforce-gdp-growth-double-lineplot.png)
+![women-in-workforce-vs-gdp-growth-lineplot](analysis/images/percent-women-workforce-gdp-growth-double-lineplot.png)
 
 
 #### S and P 500 Increase
 
-![s-and-p-500-lineplot](../analysis/images/stock-lineplot.png)
+![s-and-p-500-lineplot](analysis/images/stock-lineplot.png)
 
 
 #### Average Cost Per Employee Has Increased
 
-![increase-employee-cost-lineplot](../analysis/images/average-hourly-cost-per-employee-lineplot.png)
+![increase-employee-cost-lineplot](analysis/images/average-hourly-cost-per-employee-lineplot.png)
 
 
 #### Women in the Workforce by Race
 
-![women-in-workforce-by-race](../analysis/images/women-workforce-byrace-lineplot.png)
+![women-in-workforce-by-race](analysis/images/women-workforce-byrace-lineplot.png)
 
 
 #### Women in the Workforce by Age
 
-![women-in-workforce-by-age](../analysis/images/women-workforce-byage-multi-lineplot.png)
+![women-in-workforce-by-age](analysis/images/women-workforce-byage-multi-lineplot.png)
 
 
 #### Women in the Workforce Are Still Having Children
 
-![women-in-workforce-by-age](../analysis/images/women-workforce-byyoungestchild-lineplot.png.png)
+![women-in-workforce-by-age](analysis/images/women-workforce-byyoungestchild-lineplot.png.png)
 
 
 #### Women Are Returning to Workforce After Having Children
 
-![employment-status-women-in-workforce-age-of-youngest-child](../analysis/images/parent-employment-status-group-barplot.png)
+![employment-status-women-in-workforce-age-of-youngest-child](analysis/images/parent-employment-status-group-barplot.png)
 
 
 #### Pet Expenditure Has Increased
 
-![pet-expenditure](../analysis/images/pet-expend.png)
+![pet-expenditure](analysis/images/pet-expend.png)
 
 
 Although there are many factors that affect women participation in the workforce, birth rates, and GDP growth as well as many effects of these events, we still found some interesting trends such as the increase in pet expenditure. Pets are definitely cheaper than children!
