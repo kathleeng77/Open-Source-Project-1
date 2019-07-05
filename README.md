@@ -143,7 +143,7 @@ We researched some examples of secondary y axis plots on Stack Overflow and deci
 
 #### Women in the Workforce Are Still Having Children
 
-![women-in-workforce-by-age](analysis/images/women-workforce-byyoungestchild-lineplot.png.png)
+![women-in-workforce-by-age](analysis/images/women-workforce-byyoungestchild-lineplot.png)
 
 
 #### Women Are Returning to Workforce After Having Children
