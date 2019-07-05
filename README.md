@@ -1,6 +1,6 @@
 # Women in the Workforce Data Analysis
 
-![women_in_workforce](images/women-tech.jpg)
+![women_in_workforce](presentation/images/women-tech.jpg)
 Image source: hackbrightacademy.com
 
 
