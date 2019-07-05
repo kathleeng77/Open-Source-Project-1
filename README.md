@@ -1,6 +1,6 @@
 # Women in the Workforce Data Analysis
 
-![women_in_workforce](../presentation/images/readme-diversity-women-tech.jpg)
+![women_in_workforce](presentation/images/women-tech.jpg)
 Image source: hackbrightacademy.com
 
 
@@ -91,7 +91,7 @@ Upon looking at the types and lengths, we were able to create loops to go throug
 
 We researched some examples of secondary y axis plots on Stack Overflow and decided to use plt.subplots() and fig, ax. This created unintended consequences, such as plotting two separate legends and manipulating their locations and sizes as best we could.
 
-![plotting-secondary-y-axis-code](../cleanup/images/secondary-y-axis-code-and-plot.png)
+![plotting-secondary-y-axis-code](cleanup/images/secondary-y-axis-code-and-plot.png)
 
 
 ### Analysis
