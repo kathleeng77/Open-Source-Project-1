@@ -173,9 +173,6 @@ If we had more time, we would:
 * Explore if there are any contributing health factors to increased women in the work place (i.e. mental health, physical health, etc.)
 
 
+### Notebooks, Presentation, and Summary
 
-#### Presentation
-
-*ppt will be uploaded into a google drive file to link here and make it easily viewable in web browser*
-
-
+View our [presentation](https://docs.google.com/presentation/d/1akMttnb3DYK5BZcfBKQVOkY6KCYCHzIfGxf0XBLjgrk/edit?usp=sharing) or read through our [summary](analysis/summary-women-in-workforce.docx), [data exploration and cleanup notebook](cleanup/data-exploration-and-cleanup.ipynb), and [analysis notebook](analysis/women-in-workforce-analysis.ipynb) detailing our exploration and plotting process.
