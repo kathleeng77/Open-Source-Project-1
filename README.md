@@ -49,7 +49,7 @@ Our favorite resources for researching how to solve issues while cleaning up dat
 
 “If you torture the data long enough, it will confess.” ― Ronald H. Coase, *Essays on Economics and Economists*
 
-The overall process for cleaning our data was simple, but there were a few unexpected issues that took significantly more time to solve. We didn't want to torture our data, so we first followed typical clean up procedures and simple line plots for time series. Unexpected issues arose wwhen trying to plot two separate time series together, when different types or lengths were used within the same data frame, or when different types were nested within each other.
+The overall process for cleaning our data was simple, but there were a few unexpected issues that took significantly more time to solve. We didn't want to torture our data, so we first followed typical clean up procedures and simple line plots for time series. Unexpected issues arose when trying to plot two separate time series together, when different types or lengths were used within the same data frame, or when different types were nested within each other.
 
 Most of our data sets included one of the following issues:
 
@@ -108,12 +108,12 @@ We researched some examples of secondary y axis plots on Stack Overflow and deci
 
 #### GDP Has Grown
 
-![birth-rate-decline](analysis/images/crude-US-birth-rates.png)
+![gdp-has-grown](analysis/images/gdp-growth-lineplot.png)
 
 
 #### GDP Has Grown in Different States
 
-![birth-rate-decline-lineplot](analysis/images/crude-US-birth-rates.png)
+![gdp-grown-different-states](analysis/images/GDP-per-state.png)
 
 
 #### Women in the Workforce vs. GDP Growth
